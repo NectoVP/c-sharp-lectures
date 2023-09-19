@@ -1,0 +1,16 @@
+//SOLID
+
+// single responsibility principle
+// у класса больше 1 причина для изменения
+
+// open/closed principle
+// тип должен быть открыт для расширения, закрыт для изменения
+
+// liskov substitution principle
+// наследование базового типа не должно всё ломать 
+
+// interface integration principle
+// проектирование маленьких абстракций
+
+// dip dependancy iversion principle
+// реализации не ломают код  
